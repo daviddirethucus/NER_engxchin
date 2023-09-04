@@ -1,0 +1,91 @@
+jan
+
+feb
+
+mar
+
+apr
+
+may
+
+jun
+
+jul
+
+aug
+
+sep
+
+oct
+
+nov
+
+dec
+
+tdy
+
+tmr
+
+wk
+
+yr
+
+spring
+
+summer
+
+autumn
+
+winter
+
+new year
+
+lunar new year
+
+chinese new year
+
+chinese lantern festival
+
+kwun yum treasury opening festival
+
+hung shing festival
+
+ching ming festival
+
+tin hau festival
+
+buddha's birthday
+
+cheung chau bun festival
+
+dragon boat festival
+
+qixi festival
+
+hungry ghost festival
+
+mid-autumn festival
+
+mid autumn
+
+monkey king festival
+
+chung yeung festival
+
+xmas
+
+christmas
+
+music festival
+
+halloween
+
+easter
+
+valentine
+
+mother day
+
+father day
+
+labor day

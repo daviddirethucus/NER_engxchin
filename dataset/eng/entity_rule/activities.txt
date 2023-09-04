@@ -1,0 +1,452 @@
+shopping
+
+foodies
+
+arcade
+
+retail
+
+street-food
+
+designer-shop
+
+nightlife
+
+vendor
+
+floral
+
+boutique
+
+bazaar
+
+wet-market
+
+thrifting
+
+souvenir-shopping
+
+seaside
+
+electronic
+
+tourist attraction
+
+high-quality facility
+
+hiking
+
+professional coaching
+
+nature
+
+fitness
+
+multi-sport
+
+swimming pool
+
+basketball court
+
+tennis court
+
+gym
+
+ice rink
+
+skatepark
+
+football pitch
+
+rock climbing
+
+archery
+
+baseball
+
+running track
+
+ski slope
+
+horse-riding
+
+badminton
+
+golf
+
+table tennis
+
+fencing
+
+martial art
+
+yoga
+
+dance studio
+
+jogging trail
+
+hiking
+
+vintage
+
+cycling
+
+architecture
+
+artistic
+
+aboriginal
+
+rural life
+
+climbing
+
+fitness facility
+
+entertainment
+
+military
+
+theme park
+
+birdwatching
+
+locomotive
+
+simulator
+
+pottery
+
+commemorative
+
+underground
+
+3d immersive show
+
+interactive exhibit
+
+vr
+
+contemporary art
+
+east-meets-west art
+
+multimedia
+
+revolutionary
+
+antique artifact
+
+open studio space
+
+multisensory
+
+digital art
+
+futuristic
+
+graffiti
+
+street art
+
+space
+
+museum
+
+gallery
+
+theatre
+
+heritage
+
+architecture
+
+film
+
+movie
+
+theatre
+
+sculpture
+
+buddhist
+
+calligraphy
+
+park gallery
+
+massage
+
+ar
+
+trampoline
+
+fishing
+
+camping
+
+long hike
+
+hiking trail
+
+kite surf
+
+wind surf
+
+kayak
+
+paddling
+
+sunbathing
+
+white sand
+
+snorkeling
+
+secluded
+
+cliff-jumping
+
+picnic spot
+
+sunset spot
+
+tourist hotspot
+
+coral reef
+
+education
+
+childcare
+
+language learning
+
+extracurricular activity
+
+stem education
+
+creative art
+
+child development
+
+interactive learning
+
+workshop
+
+themed studio
+
+cultural heritage
+
+sachet
+
+laser art
+
+buddhist monastery
+
+temple
+
+church
+
+fire dragon dance
+
+anglo-chinese
+
+festive
+
+fortune telling
+
+market
+
+pond-side
+
+waterfall
+
+rock climbing
+
+birdwatching
+
+waterfront
+
+coastal walk
+
+urban
+
+wildlife
+
+pool
+
+conservation
+
+light-house
+
+fishing
+
+night hike
+
+cliff diving
+
+picnic spot
+
+adventure
+
+bouldering
+
+natural jacuzzi
+
+photography spot
+
+wild flower
+
+park
+
+garden
+
+beach
+
+caves
+
+forest
+
+prison-life
+
+farming
+
+picnic
+
+vintage
+
+retro
+
+maritime
+
+heritage
+
+music
+
+religion
+
+science
+
+specialty museum
+
+vinyl
+
+audiophile
+
+healthcare
+
+wine-tasting
+
+gaming
+
+cosplay
+
+entertainment
+
+family-friendly
+
+culinary
+
+gourmet
+
+one-stop shop
+
+supermarkets
+
+bookstores
+
+3d printing
+
+theme park
+
+airport
+
+playground
+
+kayaking
+
+watersports
+
+picnic
+
+indoor garden
+
+yoga spot
+
+food stall
+
+mountain biking
+
+meditation
+
+pottery
+
+photography
+
+wildlife
+
+country
+
+promenade
+
+reservoir
+
+sitting-out area
+
+hilltop
+
+night park
+
+botanical
+
+toy
+
+marine life
+
+beach
+
+street food
+
+3d art
+
+tram
+
+amusement ride
+
+secluded
+
+water sport
+
+hot spring
+
+spiritual
+
+zoo
+
+venue
+
+aviary
+
+farm
+
+wetland
+
+island
+
+art
+
+hollywood
+
+village
+
+hotel
+
+event
+
+activity
+
+hidden gem
+
+casino
+

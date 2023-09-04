@@ -1,0 +1,288 @@
+islands
+
+kwai tsing
+
+north
+
+sai kung
+
+sha tin
+
+tai po
+
+tsuen wan
+
+tsuen wan west
+
+tuen mun
+
+yuen long
+
+kowloon city
+
+kwun tong
+
+sham shui po
+
+wong tai sin
+
+yau tsim mong
+
+central
+
+eastern
+
+western
+
+southern
+
+wan chai
+
+hong kong island
+
+new territories
+
+kowloon
+
+kennedy town
+
+shek tong tsui
+
+sai ying pun
+
+sheung wan
+
+admiralty
+
+mid-levels
+
+peak
+
+causeway bay
+
+happy valley
+
+tai hang
+
+so kon po
+
+jardine's lookout
+
+tin hau
+
+braemar hill
+
+north point
+
+quarry bay
+
+sai wan ho
+
+shau kei wan
+
+chai wan
+
+siu sai wan
+
+pok fu lam
+
+aberdeen
+
+ap lei chau
+
+wong chuk hang
+
+shouson hill
+
+repulse bay
+
+chung hom kok
+
+stanley
+
+tai tam
+
+shak o
+
+tsim sha tsui
+
+yau ma tei
+
+west kowloon
+
+west kowloon reclamation
+
+king's park
+
+mong kok
+
+tai kok tsui
+
+mei foo
+
+lai chi kok
+
+cheung sha wan
+
+sham shui po
+
+shek kip mei
+
+yau yat tsuen
+
+tai wo ping
+
+stonecutters island
+
+hung hom
+
+to kwa wan
+
+ma tau kok
+
+ma tau wai
+
+kai tak
+
+kowloon city
+
+ho man tin
+
+kowloon tong
+
+beacon hill
+
+san po kong
+
+wong tai sin
+
+tung tau
+
+diamond hill
+
+tsz wan shan
+
+ngau chi wan
+
+ping shek
+
+kowloon bay
+
+ngau tau kok
+
+jordan valley
+
+kwun tong
+
+sau mau ping
+
+lam tin
+
+yau tong
+
+lei yue mun
+
+kwai chung
+
+tsing yi
+
+tsuen wan
+
+lei muk shue
+
+ting kau
+
+sham tseng
+
+tsing lung tau
+
+ma wan
+
+sunny bay
+
+tai lam chung
+
+so kwun wat
+
+tuen mun
+
+lam tei
+
+hung shui kiu
+
+ha tsuen
+
+lau fau shan
+
+tin shui wai
+
+san tin
+
+lok ma chau
+
+kam tin
+
+shek kong
+
+pat heung
+
+fanling
+
+luen wo hui
+
+sheung shui
+
+shek wu hui
+
+shatau kok
+
+wu kau tang
+
+tai po
+
+tai mei tuk
+
+shuen wan
+
+cheung muk tau
+
+kei ling ha
+
+tai wai
+
+sha tin
+
+fo tan
+
+wu kai sha
+
+ma on shan
+
+clear water bay
+
+sai kung
+
+tai mong tsai
+
+tseung kwan o
+
+hang hau
+
+tiu keng leng
+
+ma yau tong
+
+cheung chau
+
+peng chau
+
+lantau island
+
+lamma island
+
+tung chung
+
+tai o
+
+shek o
+
